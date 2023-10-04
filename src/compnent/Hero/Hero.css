@@ -1,0 +1,33 @@
+.Hero1 {
+    background-color: rebeccapurple;
+}
+.bg-img img{
+    width: 100vw;
+    height: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+}
+.content {
+    width: 45rem;
+    padding: 30px 30px;
+    position: absolute;
+    top: 90px;
+}
+.content > h2 {
+    font-size: 2.5rem;
+}
+button {
+    all:unset;
+    background: #ffffff98;
+    color: #fff;
+    /* padding: 7px 20px; */
+    font-size: 0.9rem;
+    font-weight: 500;
+    border-radius: 4px;
+    margin-left: 10px ;
+    cursor: pointer;
+    margin-top: 1.5rem;
+}
+.content > p {
+    font-size: 1.2rem;
+    padding-top: 2rem;
+}

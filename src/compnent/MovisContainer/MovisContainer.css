@@ -1,0 +1,16 @@
+.MovisContainer {
+    position: relative;
+    width: 100vw;
+}
+.MovisContainer > h2 {
+    font-size: 2rem;
+    background-color: rebeccapurple;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+.movis {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    gap: 1rem;
+}

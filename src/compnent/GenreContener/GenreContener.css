@@ -1,0 +1,20 @@
+
+.hero h1 {
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+.images_Contaner {
+    display: flex;
+    gap: 1rem;
+    overflow: auto;
+}
+
+.images_Contaner::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+    cursor:auto;
+}
+.line {
+    height: 2px;
+    width: 100vw;
+    margin-bottom: 2rem;
+}

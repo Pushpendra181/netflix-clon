@@ -1,0 +1,11 @@
+.movi-img {
+    padding: 2rem;   
+}
+.movi-img img {
+    width: 10rem;
+}
+.movi-img img:hover {
+    transform: scale(1.1);
+    transition: 0.5s ease;
+    
+}
